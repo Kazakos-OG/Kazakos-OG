@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Kazakos! ![](https://komarev.com/ghpvc/?username=Kazakos-OG&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/3gupybutVQ) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)
+## Hey 👋, I'm Kazakos! ![](https://komarev.com/ghpvc/?username=Kazakos-OG&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/3gupybutVQ) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)]
 
 ```js
 async function legend() {
