@@ -27,7 +27,6 @@ exports.Kazakos = legend;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazakos-OG&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
 </a>
 </p>
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ---
 
