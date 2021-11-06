@@ -18,7 +18,7 @@ async function legend() {
 
   console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
 }
-exports.Kazakos = legend;
+exports.kazakos = legend;
 ```
 
 <p align="center">
