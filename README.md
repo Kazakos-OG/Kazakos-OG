@@ -7,17 +7,11 @@ async function legend() {
   const chalk = require('chalk');
 
   let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
-  let langs = ['JavaScript', 'NodeJS', 'ExpressJS', 'HTML5', 'CSS', 'MySQL', 'Markdown'];
-  let tools = ['Brave Browser', 'Windows', 'Linux', 'Discord', 'GitHub'];
+  let langs = ['JavaScript', 'Python'];
+  let tools = ['Windows', 'Discord', 'GitHub'];
 
   let practice = await Kazakos.randomize(doing, langs, tools);
 
-  let lifeStoryPart1 = `What's up weirdos, I'm a highschooler with a passion for Software Development and Graphic Design! `;
-  let lifeStoryPart2 = `I spend most of my time coding in Discord calls with friends, or playing games on Steam. `;
-  let lifeStoryPart3 = `Currently I am ${practice[0]}, while writing ${practice[1]} on ${practice[2]}`;
-
-  console.log(chalk.blue(lifeStoryPart1, lifeStoryPart2, lifeStoryPart3));
-}
 exports.kazakos = legend;
 ```
 
