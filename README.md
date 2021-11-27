@@ -1,27 +1,31 @@
-
-## Hey 👋, I'm Kazakos! ![](https://komarev.com/ghpvc/?username=Kazakos-OG&label=Views&color=lightgrey&style=flat)
-
-```js
-async function legend() {
-  const Kazakos = require('200iq.js');
-  const chalk = require('chalk');
-
-  let doing = ['Sleeping', 'Eating', 'Coding', 'Doing Your Mom'];
-  let langs = ['JavaScript', 'Python'];
-  let tools = ['Windows', 'Discord', 'GitHub'];
-
-  let practice = await Kazakos.randomize(doing, langs, tools);
-
-exports.kazakos = legend;
-```
+## Hi there, I'm KazakosOG 
 
 <p align="center">
-<a href="https://github.com/Kazakos-OG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazakos-OG&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazakos-OG&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
-</a>
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
----
 
-<h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
+- I'm  **Programmer** 
+
+
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/Kazakos-OG"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.instagram.com/billys.nka/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
+
+### Programming Languages....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+</p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{Kazakos-OG}/count.svg)
+
+
+
+
+
